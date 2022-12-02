@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nelsonrondondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/nelsonrondondev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nelson-rondon-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nelson-rondon-dev/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nelson-rondon-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nelson-rondon-dev/" height="30" width="40" /></a>
 </p>
 
 <br/>  
@@ -73,7 +73,7 @@ Website responsive  developed for the company Nelbelma.ca
 
 ## APP DEMO
 
-[nelbelma.com](https://stupefied-kepler.143-198-236-91.plesk.page/nelbelma/)
+[nelbelma.com](https://nelson-dev.tech/nelbelma/)
 
 
 ## Tech Stack
@@ -86,7 +86,7 @@ Website responsive  developed for the company Nelbelma.ca
 
 ## Screenshots Project
 
-![Nelbelma.com](https://stupefied-kepler.143-198-236-91.plesk.page/img/nelbelma/Nelbelma.com.png)
+![Nelbelma.com](https://nelson-dev.tech/img/nelbelma/Nelbelma.com.png)
 
 
 
